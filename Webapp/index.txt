@@ -1,0 +1,10 @@
+this explains the outline of our webapp
+
+index.html
+shows the table of all luggage in transit
+
+newLuggage.html
+gives user the ability to enter information for new Luggage
+
+showStatus.html
+shows the satus of the luggage
